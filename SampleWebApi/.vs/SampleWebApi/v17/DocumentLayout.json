@@ -1,0 +1,138 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ajitk\\source\\repos\\SampleWebApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E1154A9E-044E-4943-83A7-C83759D6B08C}|SampleWebApi\\SampleWebApi.csproj|c:\\users\\ajitk\\source\\repos\\samplewebapi\\samplewebapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1154A9E-044E-4943-83A7-C83759D6B08C}|SampleWebApi\\SampleWebApi.csproj|solutionrelative:samplewebapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1154A9E-044E-4943-83A7-C83759D6B08C}|SampleWebApi\\SampleWebApi.csproj|c:\\users\\ajitk\\source\\repos\\samplewebapi\\samplewebapi\\samplewebapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{E1154A9E-044E-4943-83A7-C83759D6B08C}|SampleWebApi\\SampleWebApi.csproj|solutionrelative:samplewebapi\\samplewebapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1154A9E-044E-4943-83A7-C83759D6B08C}|SampleWebApi\\SampleWebApi.csproj|c:\\users\\ajitk\\source\\repos\\samplewebapi\\samplewebapi\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1154A9E-044E-4943-83A7-C83759D6B08C}|SampleWebApi\\SampleWebApi.csproj|solutionrelative:samplewebapi\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1154A9E-044E-4943-83A7-C83759D6B08C}|SampleWebApi\\SampleWebApi.csproj|c:\\users\\ajitk\\source\\repos\\samplewebapi\\samplewebapi\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1154A9E-044E-4943-83A7-C83759D6B08C}|SampleWebApi\\SampleWebApi.csproj|solutionrelative:samplewebapi\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1154A9E-044E-4943-83A7-C83759D6B08C}|SampleWebApi\\SampleWebApi.csproj|c:\\users\\ajitk\\source\\repos\\samplewebapi\\samplewebapi\\repositories\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1154A9E-044E-4943-83A7-C83759D6B08C}|SampleWebApi\\SampleWebApi.csproj|solutionrelative:samplewebapi\\repositories\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1154A9E-044E-4943-83A7-C83759D6B08C}|SampleWebApi\\SampleWebApi.csproj|c:\\users\\ajitk\\source\\repos\\samplewebapi\\samplewebapi\\repositories\\iemployeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1154A9E-044E-4943-83A7-C83759D6B08C}|SampleWebApi\\SampleWebApi.csproj|solutionrelative:samplewebapi\\repositories\\iemployeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1154A9E-044E-4943-83A7-C83759D6B08C}|SampleWebApi\\SampleWebApi.csproj|c:\\users\\ajitk\\source\\repos\\samplewebapi\\samplewebapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E1154A9E-044E-4943-83A7-C83759D6B08C}|SampleWebApi\\SampleWebApi.csproj|solutionrelative:samplewebapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EmployeeController.cs",
+              "DocumentMoniker": "C:\\Users\\ajitk\\source\\repos\\SampleWebApi\\SampleWebApi\\Controllers\\EmployeeController.cs",
+              "RelativeDocumentMoniker": "SampleWebApi\\Controllers\\EmployeeController.cs",
+              "ToolTip": "C:\\Users\\ajitk\\source\\repos\\SampleWebApi\\SampleWebApi\\Controllers\\EmployeeController.cs",
+              "RelativeToolTip": "SampleWebApi\\Controllers\\EmployeeController.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAqwBoAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-23T17:42:48.106Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IEmployeeRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ajitk\\source\\repos\\SampleWebApi\\SampleWebApi\\Repositories\\IEmployeeRepository.cs",
+              "RelativeDocumentMoniker": "SampleWebApi\\Repositories\\IEmployeeRepository.cs",
+              "ToolTip": "C:\\Users\\ajitk\\source\\repos\\SampleWebApi\\SampleWebApi\\Repositories\\IEmployeeRepository.cs",
+              "RelativeToolTip": "SampleWebApi\\Repositories\\IEmployeeRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-23T17:47:40.404Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ajitk\\source\\repos\\SampleWebApi\\SampleWebApi\\Program.cs",
+              "RelativeDocumentMoniker": "SampleWebApi\\Program.cs",
+              "ToolTip": "C:\\Users\\ajitk\\source\\repos\\SampleWebApi\\SampleWebApi\\Program.cs",
+              "RelativeToolTip": "SampleWebApi\\Program.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAAwCUAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-23T18:11:15.459Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\ajitk\\source\\repos\\SampleWebApi\\SampleWebApi\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "SampleWebApi\\Models\\Employee.cs",
+              "ToolTip": "C:\\Users\\ajitk\\source\\repos\\SampleWebApi\\SampleWebApi\\Models\\Employee.cs",
+              "RelativeToolTip": "SampleWebApi\\Models\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-23T17:44:55.909Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SampleWebApi.csproj",
+              "DocumentMoniker": "C:\\Users\\ajitk\\source\\repos\\SampleWebApi\\SampleWebApi\\SampleWebApi.csproj",
+              "RelativeDocumentMoniker": "SampleWebApi\\SampleWebApi.csproj",
+              "ToolTip": "C:\\Users\\ajitk\\source\\repos\\SampleWebApi\\SampleWebApi\\SampleWebApi.csproj",
+              "RelativeToolTip": "SampleWebApi\\SampleWebApi.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-03-23T17:38:31.239Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EmployeeRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ajitk\\source\\repos\\SampleWebApi\\SampleWebApi\\Repositories\\EmployeeRepository.cs",
+              "RelativeDocumentMoniker": "SampleWebApi\\Repositories\\EmployeeRepository.cs",
+              "ToolTip": "C:\\Users\\ajitk\\source\\repos\\SampleWebApi\\SampleWebApi\\Repositories\\EmployeeRepository.cs",
+              "RelativeToolTip": "SampleWebApi\\Repositories\\EmployeeRepository.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAuwCgAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-23T17:50:28.545Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\ajitk\\source\\repos\\SampleWebApi\\SampleWebApi\\appsettings.json",
+              "RelativeDocumentMoniker": "SampleWebApi\\appsettings.json",
+              "ToolTip": "C:\\Users\\ajitk\\source\\repos\\SampleWebApi\\SampleWebApi\\appsettings.json",
+              "RelativeToolTip": "SampleWebApi\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-03-23T18:15:01.846Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
